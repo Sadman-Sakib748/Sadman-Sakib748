@@ -6,7 +6,7 @@
 <div align="center">
 
 <!-- 👨‍💻 Programmer Animation (Cool GIF) -->
-<img src="https://cdn.dribbble.com/users/730703/screenshots/15959915/media/6ff5d7d594e6d9067d6fc9bfc4e76fcd.gif" alt="Developer Animation" width="300"/>
+<img src="[https://cdn.dribbble.com/users/730703/screenshots/15959915/media/6ff5d7d594e6d9067d6fc9bfc4e76fcd.gif](https://t4.ftcdn.net/jpg/08/26/29/79/360_F_826297995_gHRLKyv4GIP3m59PPertUglA2bTG9eoc.jpg)" alt="Developer Animation" width="300"/>
 
 <!-- 🌌 Background Animation (Lottie or other visual effects) -->
 <img src="https://lottie.host/7bdf1a02-0145-4fc0-aeaf-d0831702ce46/tbBod6JNhV.json" alt="background animation" width="0" height="0" />
