@@ -3,10 +3,19 @@
  
 <img width="100%" src="https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/banner.jpg" alt="cover" />
 </div>
-<span align="left"> <img src="https://komarev.com/ghpvc/?username=shakilahmedatik&label=Profile%20views&color=0e75b6&style=flat" alt="shakilahmedatik" /> </span> 
+<span align="left">
+  <img src="https://komarev.com/ghpvc/?username=Sadman-Sakib748&label=Profile%20views&color=0e75b6&style=flat" alt="Sadman-Sakib748" />
+</span>
+
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px">, I'm Sakib</h1>  
 <h3 align="center">A passionate Web Developer 🇧🇩</h3>  
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shakilahmedatik&" alt="s" /></p>
+<h2 align="center">🔥 GitHub Streak Stats</h2>
+<p align="center">
+  <a href="https://github.com/Sadman-Sakib748">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sadman-Sakib748&theme=dark&hide_border=true" alt="Sadman-Sakib748's GitHub Streak" />
+  </a>
+</p>
+
 <br>
 
 
