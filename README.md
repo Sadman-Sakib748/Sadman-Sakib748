@@ -17,8 +17,8 @@
 
 - 🌱 I’m currently learning TypeScript, React-Native & Go.
 
-- 💬 Talk to me about React, Node, Python, JavaScript, Freelancing Opportunities etc.
- - 📫 Reach me at **shakilatik@gmail.com**  
+- 💬 Talk to me about React, Node,  JavaScript, Freelancing Opportunities etc.
+ - 📫 Reach me at **sadman.sakib34523@gmail.com**  
 
 <br>
   
