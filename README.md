@@ -16,10 +16,6 @@
   </a>
 </p>
 
-<p align="center">
-  <strong>📅 Updated on: June 24, 2025</strong>
-</p>
-
 <br>
 
 
