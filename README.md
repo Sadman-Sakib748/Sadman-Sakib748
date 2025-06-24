@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=Sadman-Sakib748&label=Profile%20views&color=0e75b6&style=flat" alt="Sadman-Sakib748" />
 </span>
 
-<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px">, I'm Sakib</h1>  
+<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/sadmansakib/sadmansakib/main/hi.gif" width="50px" height="50px">, I'm Sakib</h1>  
 <h3 align="center">A passionate Web Developer 🇧🇩</h3>  
 <h2 align="center">🔥 GitHub Streak Stats</h2>
 <p align="center">
