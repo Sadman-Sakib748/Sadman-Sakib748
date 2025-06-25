@@ -1,7 +1,7 @@
 <div align="center">
  
  
-<img width="100%" src="https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/banner.jpg" alt="cover" />
+<img width="100%" src="https://i.ibb.co/VpjLYDXZ/480579532-644110298141217-2147821547245627884-n.jpg" alt="cover" />
 </div>
 <span align="left">
   <img src="https://komarev.com/ghpvc/?username=Sadman-Sakib748&label=Profile%20views&color=0e75b6&style=flat" alt="Sadman-Sakib748" />
