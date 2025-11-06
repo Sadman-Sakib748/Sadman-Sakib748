@@ -19,7 +19,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🌱 I’m currently learning TypeScript, React-Native & Go.
+- 🌱 I’m currently learning TypeScript, Next ja & Go.
 
 - 💬 Talk to me about React, Node,  JavaScript, Freelancing Opportunities etc.
  - 📫 Reach me at **sadman.sakib34523@gmail.com**  
